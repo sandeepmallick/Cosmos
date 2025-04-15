@@ -401,8 +401,10 @@ button {
 }
 
 button:hover {
-    background: rgba(255, 255, 255, 0.2);
-    color: white;
+	background: rgba(255, 0, 0, 0.2);
+	color: rgb(255, 0, 0);
+	transition: 0.2s;
+	BORDER: 10px solid rgb(255, 0, 0);
 }
 .request-loader {
 	flex-direction: row;
