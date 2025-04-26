@@ -1,2 +1,2 @@
 # click to explore 🛸
-https://sandeepmallick.github.io/Cosmos/
+https://c8sm8s.netlify.app/
