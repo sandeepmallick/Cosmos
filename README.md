@@ -1,2 +1,2 @@
-# click to explore
-sandeepmallick.github.io/Cosmos/
+# click to explore 🛸
+https://sandeepmallick.github.io/Cosmos/
